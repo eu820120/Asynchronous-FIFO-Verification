@@ -2,9 +2,6 @@
   Dual-clock asynchronous FIFO behavioral model in SystemVerilog
   Based on Cliff Cumming's Simulation and Synthesis Techniques for Asynchronous FIFO Design
   http://www.sunburst-design.com/papers/CummingsSNUG2002SJ_FIFO1.pdf
-
-  Copyright (C) 2015 Jason Yu (http://www.verilogpro.com)
-
 */
 
 module beh_fifo(rdata, wfull, rempty, wdata,
